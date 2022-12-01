@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Loki",
+    "club": "Marvel",
+    "url": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/3_0.png"
+  },
+  {
+    "name": "Purple Man",
+    "club": "Marvel",
+    "url": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/4_0.png"
+  },
+  {
+    "name": "Green Goblin",
+    "club": "Marvel",
+    "url": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/6.png"
+  },
+  {
+    "name": "Thanos",
+    "club": "Marvel",
+    "url": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/11.png"
+  }
+]
